@@ -1,4 +1,4 @@
-# Preview: https://paroquia-carmo-e-sao-benedito.netlify.app/](https://joaquimwalter.github.io/Site-Profissional-Paroquia-do-Carmo-e-Sao-Benedito/
+# Preview: https://joaquimwalter.github.io/Site-Profissional-Paroquia-do-Carmo-e-Sao-Benedito/
 
 🎯 Descrição do Projeto:
 
