@@ -2,7 +2,7 @@
 
 🎯 Descrição do Projeto:
 
-Consiste em um projeto profissional para Paróquia, desenvolvida com HTML, CSS e JavaScript. A interface interativa permite ao usuário navegar pelas sessões do site com menu fixo no top da tela, layout agradável, com informações e atividades da instituição, e para concetar os fiés com as canções da igreja tem a rádio que toca durante a navegação do do site .
+Consiste em um projeto profissional para Paróquia, desenvolvida com HTML, CSS e JavaScript. A interface interativa permite ao usuário navegar pelas sessões do site com menu fixo no top da tela, layout agradável, com informações e atividades da instituição, e para conectar os fiés com as canções da igreja tem o botão da rádio, que direciona para a webradio da paróquia.
 
 🛠 Tecnologias Utilizadas
 
